@@ -1,0 +1,28 @@
+name: islam
+favicon: null
+layout_spectrum: 0.07682583434507251
+typography_spectrum: 0.730536155635491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9921857221052051
+  lightness: 0.16704942798241973
+  saturation: 0.5613672051113099
+  rhythmicContrast: 0.6972890091128647
+purpose: []
